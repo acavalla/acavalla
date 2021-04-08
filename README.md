@@ -2,7 +2,7 @@
 
 I am a recent graduate from the [Makers Academy](http://github.com/makersacademy) software development bootcamp. I love learning new languages, TDD, and the full stack.</br>
 I'm seeking meaningful, socially beneficial work in a large company, and I'm based in London, UK.</br></br>
-**For more details, see my [CV](http://github.com/acavalla/CV)**
+**For more details, see my [CV](http://github.com/acavalla/CV).**
 <!--
 **acavalla/acavalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
