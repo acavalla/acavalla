@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a junior software developer seeking meaningful, socially beneficial work in a large company.
-I'm interested in backend and frontend, and am trained in Ruby and JS. 
-For more details, see my [CV](http://github.com/acavalla/CV)
+I'm a junior software developer seeking meaningful, socially beneficial work in a large company.</br>
+I'm interested in backend and frontend, and am trained in Ruby and JS. </br></br>
+**For more details, see my [CV](http://github.com/acavalla/CV)**
 <!--
 **acavalla/acavalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
